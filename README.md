@@ -29,13 +29,13 @@
 ## 💡 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-iqbal-18781a304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="image/Linkedin Logo Vector Free Download - 461191 _ TopPNG.jpeg" alt="LinkedIn" width="50" height="50">
+    <img src="image/LinkedIn Logo PNG Vector (EPS) Free Download.jpeg" alt="LinkedIn" width="50" height="50">
   </a>
   <a href="mfaiziqbal01@gmail.com">
     <img src="image/Gmail 29.jpeg" alt="Email" width="50" height="50">
   </a>
   <a href="https://www.instagram.com/faiz.ball/profilecard/?igsh=MXhrNjEzNjNlM21ncQ==" target="_blank">
-    <img src="image/Ikon Instagram Logo Instagram, Ikon Instagram, Logo Instagram, Media Sosial PNG dan Vektor dengan Background Transparan untuk Unduh Gratis.jpeg" alt="instagram" width="50" height="50">
+    <img src="image/Free Vector _ Instagram icon.jpeg" alt="instagram" width="50" height="50">
   </a>
 </p>
 
