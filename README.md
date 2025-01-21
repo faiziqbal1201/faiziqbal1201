@@ -14,7 +14,7 @@
 - 🎨 I enjoy building aesthetically pleasing and responsive user interfaces.
 - 📚 Currently exploring: **TypeScript** and **Three.js** for 3D web development.
 - 💬 Let's talk about **UI/UX**, **Web Performance**, or **Design Systems**!
-- ⚡ Fun fact: I Speak 4 Languages **(Indonesian, Japanese, Arabic, korea[Hangeul], Russia)**
+- ⚡ Fun fact: I Speak 5 Languages **(Indonesian, Japanese, Arabic, korea[Hangeul], Russia)**
 ---
 
 ## 🔥 Skills & Tools
