@@ -14,29 +14,32 @@
 - 🎨 I enjoy building aesthetically pleasing and responsive user interfaces.
 - 📚 Currently exploring: **TypeScript** and **Three.js** for 3D web development.
 - 💬 Let's talk about **UI/UX**, **Web Performance**, or **Design Systems**!
+- ⚡ Fun fact: I Speak 4 Languages **(Indonesian, Japanese, Arabic, korea[Hangeul], Russia)**
 ---
 
 ## 🔥 Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<div style="text-align: center;">
+    <br>
+    <img alt="Iqbal-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Iqbal-MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img alt="Iqbal-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="Iqbal-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Iqbal-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="Iqbal-Github" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+</div>
 
 ---
 ## 💡 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-iqbal-18781a304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="image/LinkedIn Logo PNG Vector (EPS) Free Download.jpeg" alt="LinkedIn" width="50" height="50">
-  </a>
-  <a href="mfaiziqbal01@gmail.com">
-    <img src="image/Gmail 29.jpeg" alt="Email" width="50" height="50">
-  </a>
-  <a href="https://www.instagram.com/faiz.ball/profilecard/?igsh=MXhrNjEzNjNlM21ncQ==" target="_blank">
-    <img src="image/Free Vector _ Instagram icon.jpeg" alt="instagram" width="50" height="50">
-  </a>
+   <a href="https://www.linkedin.com/in/muhammad-iqbal-18781a304" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
+   </a>
+   <a href="mailto:mfaiziqbal01@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
+   <a href="https://www.instagram.com/faiz.ball/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
 </p>
 
 ----
